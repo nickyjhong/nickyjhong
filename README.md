@@ -4,7 +4,7 @@
 - ✨ Pronouns: She/Her
 - 🌱 Graduate of Fullstack Academy's 2206 (September 2022) cohort
 - 👨‍💻 All of my projects are available at [nicolehong.dev](https://nicolehong.dev/)
-- 📄 Know about my experiences on my [resume](https://drive.google.com/file/d/1IOkCix-U3LtdEZ1_LqdE4hxrPCM50kKV/view)
+- 📄 Know about my experiences on my [resume](https://drive.google.com/file/d/1ZBdR-vye2ow09T12zpGRorGt9FsS-Kur/view?usp=sharing)
 - 💬 Talk to me about **PERN stack and K-12 education**
 - 📫 Email me at **nickyjhong@gmail.com**
 - ⚡ Fun fact: I'm a bodybuilder and am training for my first competition next year!
